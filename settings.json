@@ -1,0 +1,15 @@
+{
+  "kio.project": "Team-Alpha",
+  "kio.default_memory_bank": "1729",
+  "kio.primary_model": "openrouter/free",
+  "kio.optimizer_model": "groq/llama-3.3-70b-versatile",
+  "kio.mcp_servers": {
+    "hindsight": {
+      "type": "http",
+      "url": "https://api.hindsight.vectorize.io/mcp/1729/"
+    }
+  },
+  "openrouter_api_key": "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",
+  "personalization_agent_model": "openrouter/free",
+  "coding_agent_model": "anthropic/claude-3.5-sonnet"
+}

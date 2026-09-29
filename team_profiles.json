@@ -1,0 +1,19 @@
+{
+  "team": "KIO Core Devs",
+  "members": {
+    "ashwanth": {
+      "role": "Lead Security & System Dev",
+      "preferred_language": "Python 3.12",
+      "environment": "Windows / PowerShell / VS Code",
+      "active_mcps": ["hindsight", "filesystem", "python_runner"],
+      "coding_style": "Concise, typed Python, strict error handling, no conversational filler"
+    },
+    "alex": {
+      "role": "Frontend & UI Lead",
+      "preferred_language": "TypeScript / React",
+      "environment": "macOS / Zsh",
+      "active_mcps": ["hindsight", "github_mcp"],
+      "coding_style": "Modular, clean UI components, Tailwind styling"
+    }
+  }
+}
